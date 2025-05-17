@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Lance Capistrano and I'm a Pro, from Philippines</h2>
 
 ###
 
